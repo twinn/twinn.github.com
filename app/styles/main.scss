@@ -1,0 +1,24 @@
+$iconSpritePath: "../images/glyphicons-halflings.png";
+$iconWhiteSpritePath: "../images/glyphicons-halflings-white.png";
+
+@import 'sass-bootstrap/lib/bootstrap';
+
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+h1 {
+  text-align: center;
+  font-size: 75px !important;
+  font-family: rockwell;
+  padding: 60px;
+}
+li {
+  list-style-type: none;
+}
+p {
+  font-size: 30px;
+  line-height: 1.5;
+}
